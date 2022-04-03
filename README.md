@@ -3,12 +3,12 @@
 Welcome to my tenement. Here you can find an infomation about my experience and contacts.
 
 
-### Contact me!
+## Contact me!
 ![Alt text](https://github.com/ilRECh/ilRECh/blob/main/Telegram-icon.png) https://t.me/ilRECh
 
 ![Alt text](https://github.com/ilRECh/ilRECh/blob/main/Gmail-icon.png) ildar.rch@gmail.com
 
-### School 21 progress
+## School 21 progress
 
 | Project name | Techs | Summary |
 |:---:|:----:|:----:|
