@@ -1,3 +1,11 @@
+# Well hello there, fellow programmer!
+
+Welcome to my tenement. Here you can find an infomation about my experience and contacts.
+
+
+
+## School 21 progress
+
 | Project name | Techs | Summary |
 |:---:|:----:|:----:|
 |[libft]() | C , Make |  |
@@ -9,6 +17,6 @@
 |[pipex]() | C , Make |  |
 |[minishell]() | C , Make |  |
 |[Exploring C++]() | C++ , Make |  |
-|[IRC server]() | C , Make |  |
+|[IRC server]() | C++ , Make |  |
 |[Inception]() | docker , docker-compose , Make |  |
 |coming soon|
