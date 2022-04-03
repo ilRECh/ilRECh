@@ -2,7 +2,8 @@
 
 Welcome to my tenement. Here you can find an infomation about my experience and contacts.
 
-
+![Alt text](https://github.com/ilRECh/ilRECh/blob/main/Telegram-icon.png) https://t.me/ilRECh
+![Alt text]() ildar.rch@gmail.com
 
 ## School 21 progress
 
