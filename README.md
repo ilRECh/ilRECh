@@ -1,6 +1,6 @@
 # Well hello there, fellow programmer!
 
-Welcome to my tenement. Here you can find an infomation about my experience and contacts.
+Welcome to my tenement. You can find here an infomation about my experience and how to contact me directly.
 
 
 ## Contact me!
