@@ -1,4 +1,3 @@
 ### hello there
 
-You are welcome here. Wanna tea?
-
+You are welcome. Wanna tea?
